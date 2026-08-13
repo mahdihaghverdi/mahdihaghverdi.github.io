@@ -1,5 +1,5 @@
 ---
-icon: lucide/briefcase-business
+icon: lucide/user-round
 ---
 
 # Mahdi Haghverdi

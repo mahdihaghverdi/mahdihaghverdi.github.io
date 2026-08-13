@@ -12,9 +12,15 @@ repo_name = "mahdihaghverdi"
 
 nav = [
     { "Mahdi Haghverdi" = [
-            "index.md",
-            "resume.md",
-            "presentations.md"
+        "index.md",
+        "resume.md"
+        ]
+    },
+    { "Repositories" = [
+            "repos/python.md",
+            # "repos/k8s.md",
+            "repos/uni.md",
+            "repos/presentations.md",
         ]
     },
     { "Writing" = [
@@ -152,3 +158,6 @@ zensical.extensions.glightbox = {}
 [project.extra.tags]
 Python = "Python"
 Article = "Article"
+
+[project.extra.status]
+new = "Recently added"

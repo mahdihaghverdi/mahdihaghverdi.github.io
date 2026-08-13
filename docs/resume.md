@@ -1,5 +1,6 @@
 ---
-icon: fontawesome/solid/briefcase
+icon: lucide/briefcase-business
+status: new
 ---
 
 # Resume
