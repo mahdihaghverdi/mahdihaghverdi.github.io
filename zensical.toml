@@ -16,9 +16,9 @@ nav = [
         "resume.md"
         ]
     },
+    { "Recent" = "recent/index.md" },
     { "Repositories" = [
             "repos/python.md",
-            # "repos/k8s.md",
             "repos/uni.md",
             "repos/presentations.md",
         ]
@@ -94,13 +94,17 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/mahdihaghverdi/"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/mastodon"
-# link = "https://fosstodon.org/@user"
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://ir.linkedin.com/in/mahdi-haghverdi-a5768922b"
+
+[[project.extra.social]]
+icon = "fontawesome/solid/paper-plane"
+link = "mailto:mahdihaghverdiliewpl@gmail.com"
 
 [project.markdown_extensions]
 abbr = {}

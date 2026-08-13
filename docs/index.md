@@ -29,7 +29,7 @@ I build software with Python and explore the systems behind it — from Linux, n
     
     Bachelor's Final Project.
     
-    :octicons-mark-github-24: **[pys3fuse](https://github.com/mahdihaghverdi/pys3fuse)**
+    :octicons-mark-github-24: **[pys3fuse](https://github.com/mahdihaghverdi/pys3fuse){:target="_blank"}**
 
     `FUSE` `S3` `POSIX` `Python`
 
@@ -39,23 +39,23 @@ I build software with Python and explore the systems behind it — from Linux, n
     
     ---
     
-    Building and exploring the infrastructure around software.
-
-    :octicons-mark-github-24: **[ssh-tunnel-with-docker](https://github.com/mahdihaghverdi/ssh-tunnel-with-docker)**
+    :octicons-mark-github-24: **[ssh-tunnel-with-docker](https://github.com/mahdihaghverdi/ssh-tunnel-with-docker){:target="_blank"}**
 
     `SSH` `Docker` `Networking`
 
-    > An experiment with SSH local port forwarding and Docker.
+    > A Docker-based setup for experimenting with SSH local port forwarding and tunneling between containers.
 
-- :fontawesome-brands-python:{ .lg .middle } **Python & Developer Tools**    
+- :fontawesome-brands-python:{ .lg .middle } **Writing and Research**    
     
     ---
     
-    Building tools and exploring Python.
+    Detailed codebase research of `timsort` algorithm in CPython. With writing an article and creating slides for presention of the algorithm.
 
-    :octicons-mark-github-24: **[chanager](https://github.com/mahdihaghverdi/chanager)**
+    :octicons-mark-github-24: **[`timsort`](https://github.com/mahdihaghverdi/timsort){:target="_blank"}**
+    :lucide-corner-down-right: [Article](https://virgool.io/@liewpl/timsort-algorithm-explained-u41h0wv0jnax){:target="_blank"}
+    :lucide-corner-down-right: [Presention](https://github.com/mahdihaghverdi/timsort/blob/main/slides.pdf){:target="_blank"}
 
-    `Python` `Developer Tooling`
+    `Python` `Algorithm` `Presention`
 
     > A Python project exploring developer tooling and application-level abstractions.
 
