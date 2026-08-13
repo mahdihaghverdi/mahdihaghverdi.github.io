@@ -11,7 +11,12 @@ repo_name = "mahdihaghverdi"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-    { "Mahdi Haghverdi" = "index.md" },
+    { "Mahdi Haghverdi" = [
+            "index.md",
+            "resume.md",
+            "presentations.md"
+        ]
+    },
     { "Writing" = [
             "writing/python.md",
             "writing/algorithms.md"
@@ -47,8 +52,8 @@ features = [
   "navigation.path",
   # "navigation.prune",
   "navigation.sections",
-  "navigation.tabs",
-  "navigation.tabs.sticky",
+  # "navigation.tabs",
+  # "navigation.tabs.sticky",
   "navigation.top",
   "navigation.tracking",
   "search.highlight",
@@ -61,9 +66,9 @@ features = [
 # [project.theme.icon]
 # logo = "lucide/smile"
 
-# [project.theme.font]
+[project.theme.font]
 # text = "Inter"
-# code = "Jetbrains Mono"
+code = "Monaco"
 
 [[project.theme.palette]]
 theme = "indigo"
@@ -104,6 +109,7 @@ toc = {
 pymdownx.arithmatex = {
   generic = true
 }
+pymdownx.blocks.caption = {}
 pymdownx.betterem = {}
 pymdownx.caret = {}
 pymdownx.details = {}
@@ -141,7 +147,7 @@ pymdownx.tasklist = {
   custom_checkbox = true
 }
 pymdownx.tilde = {}
-
+zensical.extensions.glightbox = {}
 
 [project.extra.tags]
 Python = "Python"
