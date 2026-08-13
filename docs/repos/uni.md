@@ -57,7 +57,7 @@ configurable execution and string-generation timeouts. It combines a
 small mathematical evaluator with a complete web application and
 persistence layer.
 
-![Resume](plumacalc.png)
+![pluma-landing](../images/plumacalc.png)
 
 :octicons-mark-github-24: [View repository](https://github.com/mahdihaghverdi/plumacalc)
 

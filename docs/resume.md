@@ -5,5 +5,5 @@ status: new
 
 # Resume
 
-![Resume](Mahdi-Haghverdi-Resume.jpg)
+![Resume](images/Mahdi-Haghverdi-Resume.jpg)
 
