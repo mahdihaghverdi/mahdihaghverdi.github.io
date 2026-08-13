@@ -13,8 +13,8 @@ repo_name = "mahdihaghverdi"
 nav = [
     { "Mahdi Haghverdi" = "index.md" },
     { "Writing" = [
-            "writing/algorithms.md",
-            "writing/python.md"
+            "writing/python.md",
+            "writing/algorithms.md"
         ]
     }
 ]
