@@ -16,7 +16,7 @@ nav = [
         "resume.md"
         ]
     },
-    { "Recent" = "recent/index.md" },
+    # { "Recent" = "recent/index.md" },
     { "Repositories" = [
             "repos/python.md",
             "repos/uni.md",

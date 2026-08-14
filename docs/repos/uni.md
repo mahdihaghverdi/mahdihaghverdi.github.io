@@ -18,7 +18,7 @@ flattened expressions, parenthesized representations, numerized tokens,
 postfix notation, and the final result, while also introducing
 calculation and string-representation timeouts for expensive expressions.
 
-:octicons-mark-github-24: [View repository](https://github.com/mahdihaghverdi/postfixcalc)
+:octicons-mark-github-24: [View repository](https://github.com/mahdihaghverdi/postfixcalc){:target="_blank"}
 
 
 !!! info
@@ -59,7 +59,7 @@ persistence layer.
 
 ![pluma-landing](../images/plumacalc.png)
 
-:octicons-mark-github-24: [View repository](https://github.com/mahdihaghverdi/plumacalc)
+:octicons-mark-github-24: [View repository](https://github.com/mahdihaghverdi/plumacalc){:target="_blank"}
 
 
 ---
@@ -78,4 +78,4 @@ GHDL and inspected through GTKWave, making it possible to follow the
 design from assembly instructions through machine code and into the
 hardware-level execution of the processor.
 
-:octicons-mark-github-24: [View repository](https://github.com/mahdihaghverdi/cpu)
+:octicons-mark-github-24: [View repository](https://github.com/mahdihaghverdi/cpu){:target="_blank"}

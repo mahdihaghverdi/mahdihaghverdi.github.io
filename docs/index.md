@@ -17,11 +17,11 @@ I build software with Python and explore the systems behind it — from Linux, n
     ---
     Learning the main concepts of operators.
         
-    :octicons-mark-github-24: **[ConfigMapOperator](https://github.com/mahdihaghverdi/ConfigMapOperator)**
+    :octicons-mark-github-24: **[k8s-operators-docs](https://mahdihaghverdi.github.io/k8s-operators-docs){:target="_blank"}**
 
-    `Kubernetes` `Operator` `Self-healing`
+    `Kubernetes` `Operator` `Automation`
 
-    > A Kubernetes Operator for managing ConfigMaps with ownership and self-healing behavior.
+    > An aggregated documentation website for all the operators I've written.
 
 - :material-memory:{ .lg .middle } **Systems & Internals**
     

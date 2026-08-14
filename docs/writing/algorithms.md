@@ -7,7 +7,7 @@ icon: material/sort-numeric-ascending
 
 <div class="grid cards" markdown>
 
-- :material-sort-numeric-ascending: **[Timsort Algorithm](https://virgool.io/@liewpl/timsort-algorithm-u41h0wv0jnax)**
+- :material-sort-numeric-ascending: **[Timsort Algorithm](https://virgool.io/@liewpl/timsort-algorithm-u41h0wv0jnax){:target="_blank"}**
 
     `Algorithms` · `16 min`
 
